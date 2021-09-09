@@ -1,0 +1,11 @@
+.Tilt {
+    background: rgb(33,220,255);
+    background: linear-gradient(257deg, rgba(33,220,255,1) 0%, rgba(237,81,221,1) 85%);
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 3px 3px #000;
+    letter-spacing: 0.1em;
+    font-weight: 200;
+}
