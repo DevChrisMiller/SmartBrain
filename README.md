@@ -1,4 +1,4 @@
-#SmartBrain
+<h1>SmartBrain</h1>
 
 This is a React App that is used to detect faces in images. Simply copy and paste an image URL, click detect, and it will locate the face in your image.
 
